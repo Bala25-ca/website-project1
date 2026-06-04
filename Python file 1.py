@@ -6,3 +6,4 @@ name = input("what is your name? ")
 print ("hello " + name + ", nice to meet you!")
 age = input("how old are you? ")
 print ("you are " + age + " years old.")
+
